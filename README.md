@@ -51,14 +51,13 @@
 
 <h3 align="center"> 🌈 My SMS 🌈 </h3>
 <p align="center">
-  <a href="https://velog.io/@easyhwan"><img src="https://img.shields.io/badge/Blog-11B48A?         style=flat&logo=Vimeo&logoColor=white&link=https://velog.io/@easyhwan"/></a>&nbsp
-  <a href="https://www.instagram.com/easyhawn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/easyhawn/"/></a>&nbsp
-  <a href="mailto:easyhwan97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=easyhwan97@gmail.com"/></a>
+  <a href="https://www.instagram.com/think_virus/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/think_virus/"/></a>&nbsp
+  <a href="mailto:chuncccc1004@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=chuncccc1004@gmail.com"/></a>
 </p>
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/Easy-Hwan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Easy-Hwan&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
+  <a href="https://github.com/Think-Virus">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Think-Virus&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=nord&hide=Objective%2DC,c,scss,shell,ruby,dart,swift" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
