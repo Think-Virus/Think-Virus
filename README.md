@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
 
-<h2 align="center"> Hi👋, I'm Jihwan!🤗</h2>
-<h3 align="center">I am junior back-end developer who love development</h3>
+<h2 align="center"> Hi👋, I'm Myeong-gyun!🤗</h2>
+<h3 align="center">I am junior software developer who love development</h3>
 <p align="center">
   I believe in the strength of communication and collaboration<br/>
   hope the work I do bring good to the world<br/><br/>
@@ -63,24 +63,11 @@
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
-  <a href="https://github.com/Easy-Hwan">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Easy-Hwan&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+  <a href="https://github.com/Think-Virus">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Think-Virus&hide=contribs,prs&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
-<h3 align="center">🌈 Current page design story 🌈</h3>
-<div align="center" style="text-align:center">
-  
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=easyhwan&tag=readme&color=dark)](https://velog.io/@easyhwan/GitHub-%EB%82%98%EC%9D%98-%EA%B9%83%ED%97%88%EB%B8%8C-%EB%8C%80%EB%AC%B8-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
   
 </div>
-  
-<br>
-<h3 align="center">💡 My Git View Count 💡</h3>
-<p align="center">
- <!-- Blog View Count -->
-<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40easyhwan&count_bg=%2357C2A0&title_bg=%230A8A5A&icon=bloglovin.svg&icon_color=%23FFFFFF&title=Blog&edge_flat=false"/></a> -->
-<!-- Git View Count -->
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEasy-Hwan&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
-</p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
